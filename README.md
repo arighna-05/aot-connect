@@ -2,8 +2,6 @@
 
 A modern, functional, and community-driven networking platform designed specifically for students and faculty of **Academy of Technology (AOT)**.
 
-![AOT Connect Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## 🚀 Overview
 
 AOT Connect aims to bridge the gap between students across different departments and years. It provides a centralized space for official announcements, departmental discussions, interest-based clubs, and peer-to-peer messaging.
